@@ -1,5 +1,5 @@
 % Specify the file path of the image
-imagePath = "C:\Users\20232862\OneDrive - TU Eindhoven\Pictures\Saved Pictures\Coach Mikki and Friends.jpg";
+imagePath = "6a\Coach Mikki and Friends.jpg"; %the image may have a different path depending on each device
 
 % Read the color image
 img_color = imread(imagePath);
